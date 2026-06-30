@@ -1,0 +1,14 @@
+# --- Power BI / Excel Temporary Files ---
+*.tmp
+*.backup
+*.lock
+# Temporary files created by Office applications while open
+~$*.docx
+~$*.xlsx
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
+
+# --- Optional: Large Data Files ---
+# *.csv
