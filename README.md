@@ -2,8 +2,6 @@
 
 An end-to-end Power BI dashboard built for a financial organization to monitor transaction performance, customer behavior, and operational fees/taxes across 50,000+ bank transaction records.
 
-**[🔗 View on GitHub](https://github.com/ayushi-gajendra/FlexBank_Finance_Analytics_Dashboard)** | Power BI · DAX · Power Query
-
 ## Dashboard Preview
 
 **Overview**
