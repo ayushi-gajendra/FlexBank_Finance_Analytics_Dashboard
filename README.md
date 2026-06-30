@@ -114,11 +114,3 @@ YoY comparisons use time-intelligence patterns against `Calendar_Table` so every
 
 - `Flex_Bank_Analysis.pbix` — the full Power BI report file
 - `Business_Requirements.docx` — original requirements brief used to scope the dashboard
-
----
-
-## Ideas for Further Enhancement
-
-- **Investigate the "Business Owner" failed-transaction cluster** seen in the drill-through view — if it's concentrated in specific transaction types or cities, that's a concrete root-cause finding worth adding here.
-- **A short Loom/YouTube walkthrough (60–90 seconds)** linked at the top is one of the highest-converting additions for a BI portfolio repo — it removes all friction for a reviewer to see the interactivity (slicers, drill-through) in action, which static screenshots can't fully convey.
-- **One-sentence "who uses this and what decision it drives"** right above the Business Problem section would sharpen the framing from "a dashboard I built" to "a dashboard that solves a business problem," which is what tends to land with analytics hiring managers.
