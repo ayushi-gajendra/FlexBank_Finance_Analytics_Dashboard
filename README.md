@@ -1,4 +1,3 @@
-<img width="762" height="427" alt="image" src="https://github.com/user-attachments/assets/c0b77b45-1ae6-4472-a95a-ee31ad7821cd" />
 
 # FlexBank — Finance Analytics Dashboard
 
@@ -6,6 +5,9 @@ An end-to-end Power BI dashboard built for a financial organization to monitor t
 
 ---
 
+<img width="762" height="427" alt="image" src="https://github.com/user-attachments/assets/c0b77b45-1ae6-4472-a95a-ee31ad7821cd" />
+
+---
 ## Business Problem
 
 FlexBank's management team needed a centralized way to track financial performance but lacked visibility into:
