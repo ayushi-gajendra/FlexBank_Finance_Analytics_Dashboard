@@ -4,6 +4,8 @@ An end-to-end Power BI dashboard built for a financial organization to monitor t
 
 ## Dashboard Preview
 
+![](flexbank.gif)
+
 **Overview**
 ![FlexBank Overview page — KPI cards, monthly trend, segment/state/status/gender breakdowns, and a transaction-type heatmap](images/overview.png)
 
